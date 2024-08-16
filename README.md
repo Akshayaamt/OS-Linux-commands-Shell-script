@@ -1509,7 +1509,8 @@ Enter the number
 5
 Number is palindrome
 ```
-
+### Name : Sanjay sivaramakrishnan M
+### Register no : 212223240151
 
 # RESULT:
 The Commands are executed successfully.
